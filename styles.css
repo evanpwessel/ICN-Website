@@ -20,16 +20,16 @@ h2{
     font-size: 28px;
     font-weight: bolder;
     margin-top: 10px;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 
-ul{
+.container{
+    /* border: 5px solid; */
     display: flex;
-    list-style: none;
-    justify-content: space-evenly;
+    justify-content: space-around;
 }
 
-li{
+.container div{
     border: 5px solid;
     border-color: rgb(20, 148, 135);
     padding-left: 50px;
