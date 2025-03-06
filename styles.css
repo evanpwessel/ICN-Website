@@ -27,6 +27,7 @@ h2{
     /* border: 5px solid; */
     display: flex;
     justify-content: space-around;
+    flex-wrap: wrap;
 }
 
 .container div{
